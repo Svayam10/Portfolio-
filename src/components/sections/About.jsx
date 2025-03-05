@@ -66,7 +66,7 @@ export const About = ()=>{
                             <div>
                                 <h4 className="font-semibold">VJTI Racing | <em>July 2024 - Present</em> </h4>-Lead Web Developer
                             </div>
-                            <p>Developed the official website <a href="www.vjtiracing.in"><u>VJTI Racing</u></a> using ReactJS and Tailwind CSS for a dynamic user experience. Implemented backend automation with Google Apps Script, improving efficiency. Collaborated on design and features to enhance visibility and engagement.</p>
+                            <p>Developed the official website <a href="www.vjtiracing.in" target="_blank" rel="noopener noreferrer"><u>VJTI Racing</u></a> using ReactJS and Tailwind CSS for a dynamic user experience. Implemented backend automation with Google Apps Script, improving efficiency. Collaborated on design and features to enhance visibility and engagement.</p>
                         </div>
                     </div>
                 </div>
