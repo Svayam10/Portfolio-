@@ -19,28 +19,26 @@ export const Home = () => {
           </p>
 
           <div className="flex justify-center space-x-4">
-            <div className="flex justify-center space-x-4">
-              <a
-                href="#projects"
-                className="bg-blue-500 text-white py-3 px-8 rounded font-medium transition relative overflow-hidden hover:translate-y-0.5 hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]"
-              >
-                View Projects
-              </a>
-              <a
-                href="#contact"
-                className="border border-blue-500/50 text-blue-500 py-3 px-8 rounded font-medium transition-all duration-200 hover:translate-y-0.5 hover:shadow-[0_0_15px_rgba(59,130,246,0.2)] hover:bg-blue-500/10"
-              >
-                Contact Me
-              </a>
-              <a
-                href="https://drive.google.com/file/d/your-file-id/view?usp=sharing"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="bg-blue-500 text-white py-3 px-8 rounded font-medium transition relative overflow-hidden hover:translate-y-0.5 hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]"
-              >
-                Resume
-              </a>
-            </div>
+            <a
+              href="#projects"
+              className="bg-blue-500 text-white py-3 w-40 text-center px-4 rounded font-medium transition relative overflow-hidden hover:translate-y-0.5 hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]"
+            >
+              View Projects
+            </a>
+            <a
+              href="#contact"
+              className="border border-blue-500/50 text-blue-500 py-3 w-40 text-center px-4 rounded font-medium transition-all duration-200 hover:translate-y-0.5 hover:shadow-[0_0_15px_rgba(59,130,246,0.2)] hover:bg-blue-500/10"
+            >
+              Contact Me
+            </a>
+            <a
+              href="https://drive.google.com/file/d/your-file-id/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-blue-500 text-white py-3 w-40 text-center px-4 rounded font-medium transition relative overflow-hidden hover:translate-y-0.5 hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]"
+            >
+              Resume
+            </a>
           </div>
         </div>
       </RevealOnScroll>
