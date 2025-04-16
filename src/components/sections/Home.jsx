@@ -32,7 +32,7 @@ export const Home = () => {
               Contact Me
             </a>
             <a
-              href="https://drive.google.com/file/d/your-file-id/view?usp=sharing"
+              href="https://drive.google.com/file/d/1sz3tOrF5at6Th-z3SXw-lQ5_cdAKDS-e/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-500 text-white py-3 w-40 text-center px-4 rounded font-medium transition relative overflow-hidden hover:translate-y-0.5 hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]"
